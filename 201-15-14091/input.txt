@@ -1,0 +1,49 @@
+!! This is a sample single-line comment
+<- This is a sample 
+	multi-line comment ->
+
+
+!! You should keep this phonebook handy in case of emergency. Call your appropriate hero in appropriate circumstances.
+
+!! Tier-1
+Tony Stark <-Also known as Iron Man-> +14105550178
+Joshim <- Momota, believe him. He didn't steal-> 		+8805536739374	
+Masud Rana <- Discount James Bond -> +8808207291353
+Bruce Lee <- Kung-fu master ->  +865910187458
+
+!!  Tier -2
+Steve Rogers <- Leader of a clueless bunch -> +353209137999
+Sherlock Holmes <- You don't know what this guy thinks -> +14105550178
+Bruce Wayne <- Owner of the cool bat mobile -> +611800160401
+Misha Sowdagor <- Keep your distance from him ->			01786643123
+
+!! Tier-3
+Peter Parker <- Beware of his webs -> +16135550166
+Ananta Jalil <- Sometimes he talks even after being dead ->  +8807960132651
+Sakib Khan <- Needs no introduction right? NO. 1 ... ->			+8801786643236
+
+<- 
+ __    __                                                 
+|  \  |  \                                                
+| $$  | $$  ______    ______    ______   __    __         
+| $$__| $$ |      \  /      \  /      \ |  \  |  \        
+| $$    $$  \$$$$$$\|  $$$$$$\|  $$$$$$\| $$  | $$        
+| $$$$$$$$ /      $$| $$  | $$| $$  | $$| $$  | $$        
+| $$  | $$|  $$$$$$$| $$__/ $$| $$__/ $$| $$__/ $$        
+| $$  | $$ \$$    $$| $$    $$| $$    $$ \$$    $$        
+ \$$   \$$  \$$$$$$$| $$$$$$$ | $$$$$$$  _\$$$$$$$        
+                    | $$      | $$      |  \__| $$        
+                    | $$      | $$       \$$    $$        
+                     \$$       \$$        \$$$$$$         
+                           __  __                      __ 
+                          |  \|  \                    |  \
+  _______   ______    ____| $$ \$$ _______    ______  | $$
+ /       \ /      \  /      $$|  \|       \  /      \ | $$
+|  $$$$$$$|  $$$$$$\|  $$$$$$$| $$| $$$$$$$\|  $$$$$$\| $$
+| $$      | $$  | $$| $$  | $$| $$| $$  | $$| $$  | $$ \$$
+| $$_____ | $$__/ $$| $$__| $$| $$| $$  | $$| $$__| $$ __ 
+ \$$     \ \$$    $$ \$$    $$| $$| $$  | $$ \$$    $$|  \
+  \$$$$$$$  \$$$$$$   \$$$$$$$ \$$ \$$   \$$ _\$$$$$$$ \$$
+                                            |  \__| $$    
+                                             \$$    $$    
+                                              \$$$$$$                 ->
